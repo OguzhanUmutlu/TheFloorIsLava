@@ -1,0 +1,6 @@
+---
+# This works every second and checks if there is not lava sets lava, example: 10x10 block lava of 3. Y for everyone
+lavasize: 20
+# Default slowness
+default-slowness: 10
+...

@@ -1,0 +1,18 @@
+---
+name: TheFloorIsLava
+author: OguzhanUmutlu
+version: 1.0.0
+description: An event plugin for pocketmine.
+main: OguzhanUmutlu\TheFloorIsLava\Main
+api: 3.0.0
+commands:
+  thefloorislava:
+    description: "The floor is lava main command"
+    permission: "thefloorislava.cmd"
+    aliases:
+    - "tfil"
+permissions:
+  thefloorislava.cmd:
+    description: "The floor is lava main command"
+    default: "op"
+...
