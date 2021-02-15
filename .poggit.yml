@@ -4,5 +4,7 @@ branches:
 - main
 projects:
   TheFloorIsLava:
-    path: ""
+    icon: "icon.png"
+    lint:
+      phpstan: false
 ...
